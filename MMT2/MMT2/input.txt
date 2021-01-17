@@ -1,0 +1,8 @@
+{"pfm":"DESKTOP", "level":"INFO", "step" : "SEARCH", "timestamp":"2020-11-18 13:24:11.039+0530"}
+{"pfm":"DESKTOP", "level":"DEBUG", "step" : "REVIEW", "timestamp":"2020-11-18 13:44:11.039+0530"}
+{"pfm":"PWA", "level":"INFO", "step" : "SEARCH", "timestamp":"2020-11-18 14:24:11.039+0530"}
+{"pfm":"PWA", "level":"DEBUG", "step" : "REVIEW", "timestamp":"2020-11-18 14:44:11.039+0530"}
+{"pfm":"DESKTOP", "level":"INFO", "step" : "SEARCH", "timestamp":"2020-11-18 15:24:11.039+0530"}
+{"pfm":"DESKTOP", "level":"DEBUG", "step" : "REVIEW", "timestamp":"2020-11-18 15:44:11.039+0530"}
+{"pfm":"PWA", "level":"INFO", "step" : "SEARCH", "timestamp":"2020-11-18 16:24:11.039+0530"}
+{"pfm":"PWA", "level":"DEBUG", "step" : "REVIEW", "timestamp":"2020-11-18 16:44:11.039+0530"}
